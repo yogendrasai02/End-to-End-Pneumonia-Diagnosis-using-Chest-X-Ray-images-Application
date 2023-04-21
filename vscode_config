@@ -1,0 +1,106 @@
+Auto Close Tag
+Auto Rename Tag
+Color Highlight
+DotEnv
+ES7+ React/Redux/React-Native snippets
+ESLint
+GitLens
+HTML CSS Support
+Image Preview
+IntelliSense for CSS class names in HTML
+Live Server
+Material Icon Theme
+Monokai Pro
+One Dark Pro
+	Current Theme - One Dark Pro Darker
+Prettier - Code formatter
+TODO Highlight
+
+
+Font Family
+	'Fira Code'
+	
+Emmet: Include Languages
+	item = javascript; value = javascriptreact
+	
+settings.json:
+{
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "python.defaultInterpreterPath": "C:\\Users\\Yogendra\\AppData\\Local\\Continuum\\anaconda3\\python.exe",
+    "C_Cpp.updateChannel": "Insiders",
+    "code-runner.runInTerminal": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "jupyter.alwaysTrustNotebooks": true,
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "tabnine.experimentalAutoImports": true,
+    "editor.codeActionsOnSave": null,
+    "php.validate.executablePath": "C:/PHP/php.exe",
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    },
+    "editor.mouseWheelZoom": true,
+    "java.home": "C:\\Program Files\\Java\\jdk-17.0.2",
+    "java.help.firstView": "gettingStarted",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "liveServer.settings.donotShowInfoMsg": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "code-runner.saveFileBeforeRun": true,
+    "explorer.confirmDelete": false,
+    "workbench.colorTheme": "One Dark Pro Darker",
+    "C_Cpp.default.cppStandard": "c++17",
+    "bracket-pair-colorizer-2.depreciation-notice": false,
+    "explorer.confirmDragAndDrop": false,
+    "liveServer.settings.donotVerifyTags": true,
+    "C_Cpp.intelliSenseEngineFallback": "Enabled",
+    "window.zoomLevel": 1,
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "C_Cpp.errorSquiggles": "Enabled",
+    "C_Cpp.default.intelliSenseMode": "gcc-x64",
+    "java.jdt.ls.java.home": "c:\\Program Files\\Java\\jdk-17.0.2",
+    "editor.unicodeHighlight.allowedCharacters": {
+        "️": true
+    },
+    "redhat.telemetry.enabled": false,
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "editor.minimap.enabled": false,
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "prettier.tabWidth": 4,
+    "prettier.useTabs": true,
+    "prettier.printWidth": 100,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "editor.accessibilitySupport": "off",
+    "editor.fontFamily": "'Fira Code'",
+    "editor.fontLigatures": true,
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "editor.tabSize": 2,
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "emmet.preferences": {
+    
+    },
+}
