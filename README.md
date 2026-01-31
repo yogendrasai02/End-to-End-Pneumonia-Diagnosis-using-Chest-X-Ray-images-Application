@@ -1,3 +1,5 @@
+**IMPORTANT: ** This project was developed without using LLMs / Gen-AI i.e, was built before the Gen-AI era.
+
 # 🩺Pneumonia Diagnosis from Chest X-Ray Images : an end-to-end application🫁
 
 - I used [this](https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images) dataset from kaggle.
