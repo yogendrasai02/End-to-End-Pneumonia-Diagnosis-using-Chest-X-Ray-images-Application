@@ -1,4 +1,4 @@
-**IMPORTANT: ** This project was developed without using LLMs / Gen-AI i.e, was built before the Gen-AI era.
+**IMPORTANT:** This project was developed without using LLMs / Gen-AI i.e, was built before the Gen-AI era.
 
 # 🩺Pneumonia Diagnosis from Chest X-Ray Images : an end-to-end application🫁
 
